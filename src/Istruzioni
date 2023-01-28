@@ -1,0 +1,23 @@
+Esercizi: Non è necessario fare diversi progetti.
+Si puo’ creare una classe UtilitaStringhe e
+mettere i vari metodi.
+
+Nei limiti del possibile usate i parametri del metodo per l’input utente.
+
+1 Scrivere un metodo Java per calcolare la somma delle cifre (quindi numeri introdotti in
+formato stringa) contenute in una stringa.
+Esempio: input stringa = de8t9w7a9s7 deve sommare 8+9+7+9+7, riportando il totale e
+quanti numeri sono stati sommati.
+
+2 Scrivi un metodo Java per stampare i caratteri compresi tra due caratteri (ad esempio
+inserendo A e F stampa quelli contenuti tra A a F ).
+
+3 Scrivere un metodo Java per visualizzare il carattere centrale di una stringa.
+Nota:
+a) Se la lunghezza della stringa è dispari ci saranno due caratteri centrali.
+b) Se la lunghezza della stringa è pari, ci sarà un carattere centrale.
+
+4 Scrivere un metodo per sostituire un carattere specificato con un altro carattere.
+
+5 Scrivete un programma per spostare ogni zero a destra di un dato array che contiene
+numeri interi. Si deve usare lo stesso array.
